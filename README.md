@@ -1,6 +1,6 @@
 # IBM Cloud Foundry - Deploy for Wiki.js
 
-This repo is an IBM Cloud Foundry app definition for Wiki.js.
+This repo is an IBM Cloud Foundry app definition for Wiki.js. WHat?
 
 For information about Wiki.js, including detailed installation steps, read the following links:
 
